@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=0x6F72656F73&color=green)
+My name is 0x6F72656F73 and I create random useless things. You can reach me on discord at 0x6F72656F73#8221.
+
+![](https://komarev.com/ghpvc/?username=0x6F72656F73&color=red)
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
