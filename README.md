@@ -7,7 +7,7 @@ My name is 0x6F72656F73 and I create random useless things. You can reach me on 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
 
-![](https://img.shields.io/badge/vue-2.6.11-blue.svg?style=flat&color=blue)
+![](https://img.shields.io/badge/vue-2.6.11-blue.svg?style=flat&logo=vue.js&logoColor=green&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=white)
 
