@@ -14,5 +14,5 @@ My name is 0x6F72656F73 and I create random useless things. You can reach me on 
 ![](https://img.shields.io/badge/visual-studio-code?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=blue&color=black)
-![](https://img.shields.io/badge/Tools-sqlite3-informational?style=flat&logo=sqlite3&logoColor=white&color=white)
+![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Tools-brew-informational?style=flat&logo=homebrew&logoColor=yellow&color=blue)
