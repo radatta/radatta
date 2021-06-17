@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is 0x6F72656F73 and I create random useless things. You can reach me on discord at 0x6F72656F73#8221.
+My name is 0x6F72656F73 or oreos. I'm currently working on vue.js.
+
+You can reach me on discord at 0x6F72656F73#8221.
 
 ![](https://komarev.com/ghpvc/?username=0x6F72656F73&color=red)
 
