@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is 0x6F72656F73 or oreos. I'm currently working on random ideas that I think of.
+My name is 0x6F72656F73. I'm currently working on random ideas that I think of.
 
 You can reach me on discord at 0x6F72656F73#8221.
 
