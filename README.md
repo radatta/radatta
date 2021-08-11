@@ -1,20 +1,36 @@
-## Hi there 👋
+## Hey there 👋
 
-My name is 0x6F72656F73. I'm currently working on random ideas that I think of.
+I'm 0x6F72656F73, a developer interested in full stack apps, data science, and ctfs. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#0530.
 
-You can reach me on discord at 0x6F72656F73#8221.
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x6F72656F73&count_private=true&theme=react&show_icons=true" />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6F72656F73&theme=react&layout=compact" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=0x6F72656F73&color=red)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-vue-informational?style=for-the-badge&logo=vue.js&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-node-informational?style=for-the-badge&logo=node.js&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Code-java-informational?style=for-the-badge&logo=java&color=0037ff" />
+</p>
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&color=blue)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=black)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=0037ff" />
+</p>
 
-![](https://img.shields.io/badge/vue-2.6.11-blue.svg?style=flat&logo=vue.js&color=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
-![](https://img.shields.io/badge/Code-node-informational?style=flat&logo=node.js&color=black)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Tools-deno-informational?style=for-the-badge&logo=deno&color=0037ff" />
+  <img align="center" src="https://img.shields.io/badge/Tools-brew-informational?style=for-the-badge&logo=homebrew&color=0037ff" />
+</p>
 
-![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&color=white)
-![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat&logo=sqlite&color=blue)
-![](https://img.shields.io/badge/Tools-brew-informational?style=flat&logo=homebrew&color=black)
-
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=white)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=0037ff" />
+</p>
+  
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=0x6F72656F73&style=flat&color=0037ff" />
+</p>
