@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm 0x6F72656F73, a developer interested in full stack apps, data science, and ctfs. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#0530.
+I'm 0x6F72656F73, a student interested in full stack apps, data science, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#0530.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x6F72656F73&count_private=true&theme=react&show_icons=true" />
