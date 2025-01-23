@@ -3,7 +3,7 @@
 I'm 0x6F72656F73, a student interested in full stack apps, data science, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#3448, and find me on ctftime at <https://ctftime.org/user/92127>.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6F72656F73&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radatta&theme=react&layout=compact" />
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@ I'm 0x6F72656F73, a student interested in full stack apps, data science, and cyb
 </p>
   
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=0x6F72656F73&style=flat&color=0037ff" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=radatta&style=flat&color=0037ff" />
 </p>
