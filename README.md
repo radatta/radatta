@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm 0x6F72656F73, a student interested in full stack apps, data science, and cybersecurity. I'm always looking for new things to learn! You can reach me on discord at 0x6F72656F73#3448, and find me on ctftime at <https://ctftime.org/user/92127>.
+I'm Rahul Datta, a student interested in AI/ML Emgineering, Full-Stack, and Cybersecurity. You can find more information about me and my work at <https://rahuldatta.dev>. I'm always looking for new things to learn, and would love to connect! You can reach me at my email rahul3datta@gmail.com, on discord at 0x6F72656F73#3448, and find me on ctftime at <https://ctftime.org/user/92127>.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radatta&theme=react&layout=compact" />
